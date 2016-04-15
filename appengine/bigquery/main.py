@@ -30,7 +30,7 @@ import webapp2
 
 
 # The project id whose datasets you'd like to list
-PROJECTID = '<your-project-id>'
+PROJECTID = 'bitmex-1269'
 
 # Create the method decorator for oauth.
 decorator = OAuth2DecoratorFromClientSecrets(
